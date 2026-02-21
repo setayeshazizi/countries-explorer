@@ -39,4 +39,4 @@ _____________
  How to Run
 1. Clone the repo:  
 ```bash
-git clone <your-repo-link>
+git clone (https://github.com/setayeshazizi/countries-explorer?tab=readme-ov-file)

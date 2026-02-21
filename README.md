@@ -2,6 +2,7 @@
 
 A small, interactive React app that lets you explore countries from around the world. You can search by name, filter by region, sort by population, and see a live “loading” state while data is being fetched.  
 
+_________________
 
  Features
 - Search countries by name with a smooth debounced input  
@@ -13,7 +14,7 @@ A small, interactive React app that lets you explore countries from around the w
 
 Bonus: Handles missing data gracefully (some countries might not have all fields)  
 
-
+________________
 
 Screenshots
 
@@ -26,12 +27,14 @@ Search/Filtered Result
 ![Search Result](screenshots/search2.png)
 ![Search Result](screenshots/search3.png)
 
+______________
 
 API Endpoints Used
 - All countries: https://restcountries.com/v3.1/all  
 - Search by name: https://restcountries.com/v3.1/name/{name}  
 - Filter by region: https://restcountries.com/v3.1/region/{region}  
 
+_____________
 
  How to Run
 1. Clone the repo:  

@@ -19,13 +19,13 @@ ________________
 Screenshots
 
 Home Page  
-![Home Page](screenshots/home.png)
-![Home Page](screenshots/home2.png)
+![Home Page](screenshots/home.jpg)
+![Home Page](screenshots/home2.jpg)
 
 Search/Filtered Result  
-![Search Result](screenshots/search.png)
-![Search Result](screenshots/search2.png)
-![Search Result](screenshots/search3.png)
+![Search Result](screenshots/search.jpg)
+![Search Result](screenshots/search2.jpg)
+![Search Result](screenshots/search3.jpg)
 
 ______________
 
